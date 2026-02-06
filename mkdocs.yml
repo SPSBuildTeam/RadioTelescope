@@ -1,0 +1,4 @@
+site_name: SPS Radio Telescope
+# site_url: <your_url>
+theme:
+    name: material
