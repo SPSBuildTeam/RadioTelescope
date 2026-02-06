@@ -2,3 +2,23 @@ site_name: SPS Radio Telescope
 # site_url: <your_url>
 theme:
     name: material
+    # theming based on https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
+    palette:
+        - media: "(prefers-color-scheme)"
+          toggle:
+            icon: material/link
+            name: Switch to light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          primary: white
+          accent: indigo
+          toggle:
+            icon: material/toggle-switch
+            name: Switch to dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: black
+          accent: indigo
+          toggle:
+            icon: material/toggle-switch-off
+            name: Switch to system preference
