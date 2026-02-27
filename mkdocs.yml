@@ -2,6 +2,8 @@ site_name: SPS Radio Telescope
 # site_url: <your_url>
 theme:
     name: material
+    logo: assets/spslogo.png
+    favicon: assets/favicon.ico
     # theming based on https://github.com/squidfunk/mkdocs-material/blob/master/mkdocs.yml
     palette:
         - media: "(prefers-color-scheme)"
