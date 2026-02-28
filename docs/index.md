@@ -1,6 +1,4 @@
-# Home
-
-An open-source student-built radio telescope. Works (in theory).
+# Welcome to Radio telescope
 
 - GitHub: <https://github.com/SPSBuildTeam/RadioTelescope>
 - RPI SPS (Society of Physics Students): <https://physics.rpi.edu/programs/society-physics-students>
