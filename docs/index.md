@@ -1,7 +1,13 @@
 # Welcome to Radio telescope
 
+An open-source student-built radio telescope. Works (in theory).
+
 - GitHub: <https://github.com/SPSBuildTeam/RadioTelescope>
 - RPI SPS (Society of Physics Students): <https://physics.rpi.edu/programs/society-physics-students>
+
+![An image of a NASA radio telescope](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Goldstone_DSN_antenna.jpg/960px-Goldstone_DSN_antenna.jpg)
+
+_We'll get there, one day..._
 
 ## Site development
 
